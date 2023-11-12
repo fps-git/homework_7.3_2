@@ -1,0 +1,7 @@
+user.js
+node_modules
+playwright-report
+test-results
+.DS_Store
+.vscode/
+package-lock.json
